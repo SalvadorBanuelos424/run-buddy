@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy Inc.
 
 ## Purpose
 A website that offers fitness trainig services.
@@ -8,7 +8,7 @@ A website that offers fitness trainig services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Salvador Banuelos
